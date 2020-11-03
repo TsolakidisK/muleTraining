@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home" version="1.8.0_232">
+<bootpath>
+<entry path="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home/jre/lib/resources.jar"/>
+<entry path="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home/jre/lib/rt.jar"/>
+<entry path="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home/jre/lib/sunrsasign.jar"/>
+<entry path="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home/jre/lib/jsse.jar"/>
+<entry path="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home/jre/lib/jce.jar"/>
+<entry path="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home/jre/lib/charsets.jar"/>
+<entry path="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home/jre/lib/jfr.jar"/>
+<entry path="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/Users/tsolakidisk/Library/Java/Extensions"/>
+<entry path="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home/jre/lib/ext"/>
+<entry path="/Library/Java/Extensions"/>
+<entry path="/Network/Library/Java/Extensions"/>
+<entry path="/System/Library/Java/Extensions"/>
+<entry path="/usr/lib/java"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/private/var/folders/wq/h_2hhpv17450ftq9v_dph92m0000gn/T/AppTranslocation/1542E65F-DD3E-4E42-86B0-4962253DA61E/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.jdk.macosx.x86_64_1.0.0.202004281356/Contents/Home/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-14.0.2.jdk/Contents/Home" version="14.0.2"/>
+</libraryInfos>
