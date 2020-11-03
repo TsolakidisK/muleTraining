@@ -28923,3 +28923,51 @@ Binding(F2,
 
 !ENTRY org.mule.tooling.maven 1 0 2020-11-03 16:28:23.012
 !MESSAGE  *** 1123 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.runtime 1 0 2020-11-03 17:39:35.573
+!MESSAGE Starting shell termination command "[/Applications/AnypointStudio.app/Contents/Eclipse/plugins/org.mule.tooling.server.4.3.0.ee_7.3.5.202010151511/mule/bin/mule, stop]"
+
+!ENTRY org.mule.tooling.runtime 1 0 2020-11-03 17:39:35.582
+!MESSAGE Finished shell termination command "[/Applications/AnypointStudio.app/Contents/Eclipse/plugins/org.mule.tooling.server.4.3.0.ee_7.3.5.202010151511/mule/bin/mule, stop]"
+
+!ENTRY org.mule.tooling.runtime 1 0 2020-11-03 17:39:35.749
+!MESSAGE Starting shell termination command "[kill, -9, 37298]"
+
+!ENTRY org.mule.tooling.runtime 1 0 2020-11-03 17:39:35.753
+!MESSAGE Finished shell termination command "[kill, -9, 37298]"
+
+!ENTRY org.mule.tooling.runtime 2 0 2020-11-03 17:39:35.754
+!MESSAGE Termination command ShellTerminationCommand [getTerminationCommand()=[kill, -9, 37298]] indicate retry action is necessary, moving on to next one
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 17:57:28.048
+!MESSAGE  *** 1695 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 18:06:41.501
+!MESSAGE  *** 1750 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 18:09:53.337
+!MESSAGE  *** 1359 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 18:10:11.678
+!MESSAGE  *** 1169 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 18:10:39.420
+!MESSAGE  *** 1688 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 18:22:00.999
+!MESSAGE  *** 1598 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 22:32:42.733
+!MESSAGE  *** 1648 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 22:37:19.277
+!MESSAGE  *** 1612 EmbeddedMavenRunner [configuration=DefaultMavenRunnerConfiguration [externalInstallation=false, mavenInstallationHome=null, mavenOpts=]]
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 22:39:50.015
+!MESSAGE  *** 1315 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 22:41:19.141
+!MESSAGE  *** 1720 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
+
+!ENTRY org.mule.tooling.maven 1 0 2020-11-03 22:41:58.827
+!MESSAGE  *** 1426 EmbeddedMavenRunner [configuration=MavenPreferences [isDontWarnAgainIfNoInstallationFoundChecked()=false, isGlobalMavenSupportEnabled()=true, getMavenInstallationHome()=, getMavenOpts()=, getDefaultGroupId()=com.mycompany, getBaseCommandline()=mvn clean package -nsu -DskipMunitTests, isDisplayRuntimeVersionWarning()=true, isExternalInstallation()=false]]
